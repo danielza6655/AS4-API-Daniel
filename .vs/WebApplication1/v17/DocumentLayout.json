@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DanieL\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|d:\\daniel\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|d:\\daniel\\webapplication1\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|d:\\daniel\\webapplication1\\webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|d:\\daniel\\webapplication1\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|d:\\daniel\\webapplication1\\webapplication1\\dataaccess\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccess\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|d:\\daniel\\webapplication1\\webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D4EBA7-0307-4A46-9F2F-5931F66EC25E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DanieL\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\DanieL\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:32:25.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\DanieL\\WebApplication1\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\DanieL\\WebApplication1\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwB8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:30:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\DanieL\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\DanieL\\WebApplication1\\WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:20:10.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\DanieL\\WebApplication1\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\DanieL\\WebApplication1\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:18:22.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\DanieL\\WebApplication1\\WebApplication1\\DataAccess\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DataAccess\\ApplicationContext.cs",
+              "ToolTip": "D:\\DanieL\\WebApplication1\\WebApplication1\\DataAccess\\ApplicationContext.cs",
+              "RelativeToolTip": "WebApplication1\\DataAccess\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:39:02.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\DanieL\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Product.cs",
+              "ToolTip": "D:\\DanieL\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T04:33:22.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
